@@ -57,11 +57,12 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/raleigh2.jpg') no-repeat top center;
+  background: url('images/zfhikeog.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
+
 header {
   line-height: 1.5;
 }
@@ -74,7 +75,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.5); 
+  transform: scale(1.5) rotate(1080deg);
 }
 .tag {
   background-color: #efefef;
